@@ -33,10 +33,6 @@ excluded from labeling entirely.
 - Gmail API / Google Workspace
 - JavaScript (custom classification logic)
 
-## Screenshot
-
-![Workflow](workflow-screenshot.png)
-
 ## What I Learned
 
 - How to build rule-based classification engines in JavaScript
