@@ -27,6 +27,8 @@ excluded from labeling entirely.
    using a first-match-wins priority system
 5. Email is routed and labeled in Gmail automatically
 
+<img width="1390" height="661" alt="Screenshot 2026-05-27 at 8 42 48 AM" src="https://github.com/user-attachments/assets/4d702837-c2ab-4e12-8117-56d10eff09c4" />
+
 ## Tech Stack
 
 - n8n (workflow automation)
